@@ -1,0 +1,7 @@
+name: My GitHub Action
+description: My GitHub Action description
+inputs:
+  run-diff:
+    description: 'Whether to run diff code'
+    required: false
+    default: 'false'
